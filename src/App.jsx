@@ -28,16 +28,23 @@
 //   )
 // }
 
+// import React from 'react'
+// import Home1 from './Todo/Home1'
+// // import Hm from './Red/Hm'
+
+// export default function App() {
+//   return (
+//    <>
+//    {/* <Hm/> */}
+//    <Home1/>
+//    </>
+//   )
+// }
+
 import React from 'react'
-import Home1 from './Todo/Home1'
-// import Hm from './Red/Hm'
 
 export default function App() {
   return (
-   <>
-   {/* <Hm/> */}
-   <Home1/>
-   </>
+    <div>App</div>
   )
 }
-
